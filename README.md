@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @tenzillata.
-- 👀 I’m interested in someone who loves me.
 - 🌱 I’m currently learning to make a website using various tools.
-- 💞️ I’m looking to collaborate on someone who want to.
 - 📫 How to reach me, you can easily send me a message toward this email zilla.titann@gmail.com
 
 <!---
