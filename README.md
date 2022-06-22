@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @tenzillata.
-- 🌱 I’m currently learning to make a website using various tools.
 - 📫 How to reach me, you can easily send me a message toward this email zilla.titann@gmail.com
 
 <!---
